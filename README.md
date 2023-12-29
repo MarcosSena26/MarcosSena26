@@ -30,7 +30,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Java](https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=&logoColor=white)
+![Java](https://camo.githubusercontent.com/8120c0c2c908d22f3892db2467c9b1263c844d39a6984bffc4be004fb1c1ecbb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d653832643266)
 
 
 #### Databases:
